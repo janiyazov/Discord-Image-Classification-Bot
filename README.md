@@ -1,1 +1,1 @@
-# Discord-Image-Classification-Bot
+Этот бот создан для распознования фотографий
